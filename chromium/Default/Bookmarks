@@ -1,0 +1,110 @@
+{
+   "checksum": "ccf90832e51f3d420a6a5e0845fc2895",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306333757554748",
+            "guid": "b9eeaa67-1ab7-498b-9b57-7a601a5fefe2",
+            "id": "5",
+            "name": "linux - picom transparency doesn't apply to alacritty (bspwm) - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/72070101/picom-transparency-doesnt-apply-to-alacritty-bspwm"
+         }, {
+            "date_added": "13306333934082034",
+            "guid": "846b9bd7-02b8-4b69-9dc9-f5486563b27d",
+            "id": "6",
+            "name": "[SOLVED]Alacritty not transparent / Newbie Corner / Arch Linux Forums",
+            "type": "url",
+            "url": "https://bbs.archlinux.org/viewtopic.php?id=269599"
+         }, {
+            "date_added": "13306697956014012",
+            "guid": "153dbe85-19b9-417d-a703-72437a6a0be3",
+            "id": "8",
+            "name": "Mouse acceleration - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/Mouse_acceleration"
+         }, {
+            "date_added": "13306697961318222",
+            "guid": "4b5e1ed7-209c-46de-8a29-123de3ec8201",
+            "id": "9",
+            "name": "[SOLVED] Adjust Mouse Sensitivity (DPI) / Newbie Corner / Arch Linux Forums",
+            "type": "url",
+            "url": "https://bbs.archlinux.org/viewtopic.php?id=252600"
+         }, {
+            "date_added": "13307064088699573",
+            "guid": "afb850dc-8da3-4746-80a2-f3674ea472dc",
+            "id": "11",
+            "name": "JTrox505 (Jacksyn T)",
+            "type": "url",
+            "url": "https://github.com/JTrox505"
+         }, {
+            "date_added": "13307065954543719",
+            "guid": "54c6c7e6-2e41-405e-88fb-4f83f26f176b",
+            "id": "13",
+            "name": "Cloning a repository - GitHub Docs",
+            "type": "url",
+            "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository"
+         }, {
+            "date_added": "13307065958989002",
+            "guid": "10c7de94-51b5-4ee8-9a35-4fe2040f065f",
+            "id": "14",
+            "name": "Synaptics Configuration File for Synaptic ClickPad Devices on Arch linux",
+            "type": "url",
+            "url": "https://gist.github.com/Brainiarc7/5cd5019beb89233ca826"
+         }, {
+            "date_added": "13307245435818565",
+            "guid": "337a414b-e97a-4913-bf26-9e6d1e37e2f2",
+            "id": "16",
+            "name": "Home · polybar/polybar Wiki",
+            "type": "url",
+            "url": "https://github.com/polybar/polybar/wiki"
+         }, {
+            "date_added": "13307245444883569",
+            "guid": "414c97d9-dbc4-4376-8f2a-19cb6bdd677f",
+            "id": "17",
+            "name": "Configuration · polybar/polybar Wiki",
+            "type": "url",
+            "url": "https://github.com/polybar/polybar/wiki/Configuration"
+         }, {
+            "date_added": "13307300752009046",
+            "guid": "919fae4c-facc-462b-8fb3-d5b204d11eaa",
+            "id": "19",
+            "name": "How to Create Color Schemes to Match Your Wallpaper on Linux - Make Tech Easier",
+            "type": "url",
+            "url": "https://www.maketecheasier.com/create-color-schemes-match-wallpaper-linux/"
+         }, {
+            "date_added": "13307328510079766",
+            "guid": "10a2a13b-84d4-453a-b216-d28b5a95d1ca",
+            "id": "21",
+            "name": "Customization · dylanaraps/pywal Wiki",
+            "type": "url",
+            "url": "https://github.com/dylanaraps/pywal/wiki/Customization#chromium"
+         } ],
+         "date_added": "13306332977743585",
+         "date_modified": "13307328510079766",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13306332977743587",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13306332977743588",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

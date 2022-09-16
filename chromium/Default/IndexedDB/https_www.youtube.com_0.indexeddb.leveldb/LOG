@@ -1,0 +1,3 @@
+2022/09/11-10:25:23.577 554 Reusing MANIFEST /home/jtrox/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/11-10:25:23.578 554 Recovering log #4
+2022/09/11-10:25:23.579 554 Reusing old log /home/jtrox/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 

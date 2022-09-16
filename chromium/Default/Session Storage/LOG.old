@@ -1,0 +1,4 @@
+2022/09/14-15:56:47.767 3 Reusing MANIFEST /home/jtrox/.config/chromium/Default/Session Storage/MANIFEST-000001
+2022/09/14-15:56:47.768 3 Recovering log #16
+2022/09/14-15:56:47.768 3 (ignoring error) /home/jtrox/.config/chromium/Default/Session Storage/000016.log: dropping 777 bytes; Corruption: missing start of fragmented record(2)
+2022/09/14-15:56:47.769 3 Reusing old log /home/jtrox/.config/chromium/Default/Session Storage/000016.log 
